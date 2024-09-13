@@ -1,0 +1,6 @@
+@TesseractTest_HostAddress = http://localhost:5276
+
+GET {{TesseractTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
